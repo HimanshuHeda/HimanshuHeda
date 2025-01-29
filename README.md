@@ -35,6 +35,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuheda&show_icons=true&locale=en&layout=compact" alt="himanshuheda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuheda&show_icons=true&locale=en" alt="himanshuheda" /></p>
+<!-- ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshuheda&show=reviews,prs_merged,prs_merged_percentage&theme=transparent) -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuheda&" alt="himanshuheda" /></p>
 
