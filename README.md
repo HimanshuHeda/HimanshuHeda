@@ -46,11 +46,16 @@
 # ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞 :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-### GitHub Contribution Snake Animation
+# My Github Contributions 
+
+### My GitHub Contributions :
 ---
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
-
+### GitHub Contribution Graph :
+---
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuheda&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
+</div>
 
 <p align="right">(<a href="#top" title="Back to top of page">⬆️ Back to Top</a>)</p>
