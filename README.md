@@ -50,7 +50,7 @@
 
 ### My GitHub Contributions :
 ---
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+![snake gif](https://github.com/himanshuheda/himanshuheda/blob/output/github-snake-dark.svg)
 
 ### GitHub Contribution Graph :
 ---
